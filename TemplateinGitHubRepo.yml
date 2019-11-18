@@ -1,0 +1,9 @@
+# this is the yaml template file in another repo
+
+# trigger: none
+
+# variables:
+#  StringtoEcho: This came from the Template
+
+steps:
+- script: echo This came from a Template in a GitHub repo
